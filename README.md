@@ -2,9 +2,8 @@
 
 Olá! Eu sou o **Zero-Ramon** 🧑‍💻
 
-- 👨‍💻 **Programador** apaixonado por tecnologia, automação e soluções criativas.
-- 🎮 Especialista em desenvolvimento de plugins e mods para **Minecraft** (Java e Bedrock), com foco em mecânicas inovadoras e integração de sistemas complexos.
-- ☕ Trabalho principalmente com **Java**, **Fabric**, **Spigot**, **Maven**, **Python**, e APIs modernas.
+- 🎮 Especialista em desenvolvimento de plugins e mods para **Minecraft** (Java), com foco em mecânicas inovadoras e integração de sistemas complexos.
+- ☕ Trabalho principalmente com **Java**, **Fabric**, **Paper**, **Maven**, **Python**, e APIs modernas.
 - 🛠️ Sempre explorando novas stacks, frameworks e desafios de programação.
 - 🚀 Gosto de aprender coisas novas, compartilhar conhecimento e criar projetos open source para a comunidade.
 - 🏆 Foco em código limpo, eficiente e documentação clara.
