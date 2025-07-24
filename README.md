@@ -21,4 +21,5 @@ Olá! Eu sou o **Zero-Ramon** 🧑‍💻
 ## 🐍 Cobrinha :P
 
 
-![Snake animation](https://github.com/Zero-Ramon/Zero-Ramon/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Zero-Ramon/Zero-Ramon/blob/main/output/github-contribution-grid-snake.svg)
+
