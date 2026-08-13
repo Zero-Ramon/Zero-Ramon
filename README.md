@@ -1,17 +1,8 @@
-## 👤 Sobre Mim
+## - Sobre Mim
 
-Olá! Eu sou o **Zero-Ramon** 🧑‍💻
+Olá! Eu sou o **Zero-Ramon** 
 
-- 🎮 Especialista em desenvolvimento de plugins e mods para **Minecraft** (Java), com foco em mecânicas inovadoras e integração de sistemas complexos.
-- ☕ Trabalho principalmente com **Java**, **Fabric**, **Paper**, **Maven**, **Python**, e APIs modernas.
-- 🛠️ Sempre explorando novas stacks, frameworks e desafios de programação.
-- 🚀 Gosto de aprender coisas novas, compartilhar conhecimento e criar projetos open source para a comunidade.
-- 🏆 Foco em código limpo, eficiente e documentação clara.
-- 🌎 Aberto para parcerias, freelas, collabs e novos desafios.
 
-> Meu objetivo é transformar ideias em códigos que facilitam a vida, geram diversão e inspiram outros desenvolvedores.
-
----
 
 **Contato:**
 - Discord: **zero_ramon**
